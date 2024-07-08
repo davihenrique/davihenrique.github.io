@@ -8,11 +8,11 @@ Contéudo:
   Página de Início.
 - Sobre:  
 Uma breve introdução sobre mim.
-- Skills  
-Algumas de minhas Skills
-- Resumo Profissional  
-Um resumo sobre minha profissional
-- Projetos  
+- Skills:  
+Algumas de minhas Skills.
+- Resumo Profissional:  
+Um resumo sobre minha profissional.
+- Projetos:  
 Um resumo sobre projetos em que atuei.
-- Portfólio  
+- Portfólio:  
 Projetos Pessoais e Atividades.
